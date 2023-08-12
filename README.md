@@ -33,7 +33,7 @@ Unless otherwise stated all source code is licensed under the [Apache 2 License]
 
 Unless otherwise stated the non source code contents of this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE-CC-Attribution-NonCommercial-ShareAlike-4.0-International.txt)
 
-## Specific notes from Logickoi
+## Specific addenda [testing how deleted content is versioned] from Logickoi
 
 Still learning this. Serious caveat emptor to anyone who uses anything I write! ;-)
 
