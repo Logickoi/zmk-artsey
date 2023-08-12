@@ -32,3 +32,9 @@ Note: This repo is setup with github actions so you *can* work directly via GitH
 Unless otherwise stated all source code is licensed under the [Apache 2 License](LICENSE-APACHE-2.0.txt).
 
 Unless otherwise stated the non source code contents of this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE-CC-Attribution-NonCommercial-ShareAlike-4.0-International.txt)
+
+## Specific notes from Logickoi
+
+Still learning this. Serious caveat emptor to anyone who uses anything I write! ;-)
+
+With grateful appreciation to everyone upstream whose work made this possible. 
