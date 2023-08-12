@@ -38,3 +38,55 @@ Unless otherwise stated the non source code contents of this repository are lice
 Still learning this. Serious caveat emptor to anyone who uses anything I write! ;-)
 
 With grateful appreciation to everyone upstream whose work made this possible. 
+
+## Layout customizations - planned and/or actual
+
+My planned changes from the baseline ARTSEY.IO layout, https://raw.githubusercontent.com/artseyio/artsey/main/layout%20diagrams/current.jpg
+
+-Swap the "." and "," keys. I find their reverse config easier to use.
+
+-Update the lag time to be lower, to (eventually) allow for faster typing.
+
+-Change "lower-left-hold" custom layer from volume/etc. controls to instead be nav controls. New key identities, by position:
+--A: end
+--R: up 
+--T: home  
+--S: (maybe escape??)
+--E: right
+--Y: down 
+--I: left 
+--O: ...is the key held down to activate layer.
+
+-Change "upper-right-hold" layer from parentheses in their current layout, to instead be (by position):
+--A: ...is the key held down to activate layer.
+--R: colon
+--T: close parentheses
+--S: open parentheses
+--E: ...is directly under the held key and so is hard to access, likely leave blank.
+--Y: semicolon
+--I: close brackets
+--O: open brackets
+
+-Change current "lower right hold" layer (symbols) from their current layout, to instead be (by position):
+--A: ...is directly above the held key and so is hard to access, likely leave blank.
+--R: question mark
+--T: at-sign
+--S: asterisk
+--E: ...is the key held down to activate the layer 
+--Y: dash
+--I: percent sign   
+--O: "generic" (non-oriented) double quote mark
+
+If I get fancy later, may also consider repurposing the original direction/lock and bluetooth/lock key layer configs
+
+Also someday may look at options for programming both right & left on same boad with a switch keycode. (Stretch goals!)
+
+-...copying in that list template for later use:
+--A:
+--R:
+--T:
+--S:
+--E:
+--Y:
+--I: 
+--O:
