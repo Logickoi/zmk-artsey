@@ -43,7 +43,11 @@ With grateful appreciation to everyone upstream whose work made this possible.
 
 My planned changes from the baseline ARTSEY.IO layout, https://raw.githubusercontent.com/artseyio/artsey/main/layout%20diagrams/current.jpg
 
+Testing - currently in the code, or may be otherwise mucking with:
+
 -Swap the "." and "," keys. I find their reverse config easier to use.
+
+Future - still to come:
 
 -Update the lag time to be lower, to (eventually) allow for faster typing.
 
