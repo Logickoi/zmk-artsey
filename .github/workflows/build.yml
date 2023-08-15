@@ -11,70 +11,70 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - board: nice_nano
-            shield: corne_artsey_left
-          - board: nice_nano
-            shield: corne_artsey_right
-          - board: nice_nano
-            shield: the_paintbrush_left
-          - board: nice_nano
-            shield: the_paintbrush_right
-          - board: nice_nano_v2
-            shield: the_paintbrush_left
-          - board: nice_nano_v2
-            shield: the_paintbrush_right
+          #- board: nice_nano
+           # shield: corne_artsey_left
+          #- board: nice_nano
+           # shield: corne_artsey_right
+          #- board: nice_nano
+           # shield: the_paintbrush_left
+          #- board: nice_nano
+           # shield: the_paintbrush_right
+          #- board: nice_nano_v2
+           # shield: the_paintbrush_left
+          #- board: nice_nano_v2
+           # shield: the_paintbrush_right
           - board: bluemicro840_v1
             shield: the_paintbrush_left
           - board: bluemicro840_v1
             shield: the_paintbrush_right
-          - board: nrfmicro_13
-            shield: the_paintbrush_left
-          - board: nrfmicro_13
-            shield: the_paintbrush_right
-          - board: nrfmicro_11
-            shield: the_paintbrush_left
-          - board: nrfmicro_11
-            shield: the_paintbrush_right
-          - board: nice_nano
-            shield: artboard_left
-          - board: nice_nano
-            shield: artboard_right
-          - board: nice_nano
-            shield: corne_5_col_artsey_left
-          - board: nice_nano
-            shield: corne_5_col_artsey_right
-          - board: nice_nano
-            shield: corne_5_col_artsey_left_big
-          - board: nice_nano
-            shield: corne_5_col_artsey_right_big
-          - board: nice_nano_v2
-            shield: corne_5_col_artsey_left_big
-          - board: nice_nano_v2
-            shield: corne_5_col_artsey_right_big
+          #- board: nrfmicro_13
+           # shield: the_paintbrush_left
+          #- board: nrfmicro_13
+           # shield: the_paintbrush_right
+          #- board: nrfmicro_11
+           # shield: the_paintbrush_left
+          #- board: nrfmicro_11
+           # shield: the_paintbrush_right
+          #- board: nice_nano
+           # shield: artboard_left
+          #- board: nice_nano
+           # shield: artboard_right
+          #- board: nice_nano
+           # shield: corne_5_col_artsey_left
+          #- board: nice_nano
+           # shield: corne_5_col_artsey_right
+          #- board: nice_nano
+           # shield: corne_5_col_artsey_left_big
+          #- board: nice_nano
+           # shield: corne_5_col_artsey_right_big
+          #- board: nice_nano_v2
+           # shield: corne_5_col_artsey_left_big
+          #- board: nice_nano_v2
+           # shield: corne_5_col_artsey_right_big
           - board: bluemicro840_v1
             shield: bluehand_left
           - board: bluemicro840_v1
             shield: bluehand_right
-          - board: nice_nano
-            shield: tidbit_artsey_left
-          - board: nice_nano
-            shield: tidbit_artsey_right
-          - board: nice_nano
-            shield: the_paintbrush_left_tsraneio
-          - board: nice_nano
-            shield: the_paintbrush_right_tsraneio
-          - board: nice_nano_v2
-            shield: the_paintbrush_left_tsraneio
-          - board: nice_nano_v2
-            shield: the_paintbrush_right_tsraneio
-          - board: nice_nano_v2
-            shield: cradio_artsey_left
-          - board: nice_nano_v2
-            shield: cradio_artsey_thumb_left
-          - board: nice_nano_v2
-            shield: cradio_artsey_right
-          - board: nice_nano_v2
-            shield: cradio_artsey_thumb_right
+          #- board: nice_nano
+           # shield: tidbit_artsey_left
+          #- board: nice_nano
+           # shield: tidbit_artsey_right
+          #- board: nice_nano
+           # shield: the_paintbrush_left_tsraneio
+          #- board: nice_nano
+           # shield: the_paintbrush_right_tsraneio
+          #- board: nice_nano_v2
+           # shield: the_paintbrush_left_tsraneio
+          #- board: nice_nano_v2
+           # shield: the_paintbrush_right_tsraneio
+          #- board: nice_nano_v2
+           # shield: cradio_artsey_left
+          #- board: nice_nano_v2
+           # shield: cradio_artsey_thumb_left
+          #- board: nice_nano_v2
+           # shield: cradio_artsey_right
+          #- board: nice_nano_v2
+           # shield: cradio_artsey_thumb_right
     steps:
       - name: Checkout
         uses: actions/checkout@v2
